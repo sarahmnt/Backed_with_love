@@ -1,0 +1,45 @@
+.navbar {
+	display: flex;
+	justify-self: space-around;
+	align-items: center;
+	padding: 8px 0;
+	position: sticky;
+	top: 0;
+	background-color: white;
+}
+
+.navbar img {
+	width: 75px;
+}
+
+ul{
+	list-style-type: none;
+	padding: àpx;
+}
+
+#Logo-Twitter { 
+	color: #ffcdb2;
+}
+
+#Logo-Twitter:hover{
+	color: #ff4d6d;
+  text-decoration: none;
+}
+
+#Logo-Linkedin {
+	color : #ffcdb2;
+}
+#Logo-Linkedin:hover{
+	color: #ff4d6d;
+  text-decoration: none;
+}
+#Logo-Insta { 
+	color: #ffcdb2;
+}
+#Logo-Insta:hover{
+	color: #ff4d6d;
+  text-decoration: none;
+}
+
+
+

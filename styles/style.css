@@ -1,0 +1,40 @@
+@import url(buttons.css);
+@import url(banner.css);
+@import url(cards.css);
+@import url(footer.css);
+@import url(navbar.css);
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&display=swap');
+
+h1 {
+	margin-top: 0;
+
+}
+
+body{
+	margin: 0;
+	font-family: 'Baloo 2', cursive;
+}
+
+h2{
+	text-align: center;
+	color: #ffcdb2;
+}
+
+h3 {
+	text-align: center;
+	color: #ffcdb2;
+}
+
+p{
+	text-align: center;
+}
+
+.List {
+	text-align: center;
+}
+
+.Map {
+	width: 500px;
+	margin-left: 500px ;
+	border-radius:7px;
+}
