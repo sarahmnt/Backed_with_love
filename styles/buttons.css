@@ -8,12 +8,26 @@
 	margin-bottom: 24px;
 }
 
+.button2 {
+	color: white;
+	background-color: #ffcdb2;
+	padding: 16px;
+	border-radius: 6px;
+	text-decoration: none;
+	margin: 24px;
+}
+
 .button:hover{
+	color: #ff4d6d;
+  	text-decoration: none;
+}
+
+.button2:hover{
 	color: #ff4d6d;
   	text-decoration: none;
 }
 
 .typeform {
 	text-align: center;
-	margin-bottom: 24px;
+	margin-bottom: 30px;
 }
