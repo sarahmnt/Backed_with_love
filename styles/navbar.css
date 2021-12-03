@@ -1,6 +1,6 @@
 .navbar {
 	display: flex;
-	justify-self: space-around;
+	justify-content: space-around;
 	align-items: center;
 	padding: 8px 0;
 	position: sticky;
@@ -41,5 +41,10 @@ ul{
   text-decoration: none;
 }
 
+.list-inline {
+	padding: 0;
+}
 
-
+.list-inline li {
+	display: inline;
+}
